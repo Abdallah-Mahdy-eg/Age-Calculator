@@ -4,10 +4,10 @@ This project is an Age Calculator web application developed as a challenge from 
 
 ## Technologies Used
 
-- **HTML**: For structuring the content of the application.
-- **CSS**: For styling the application, including layout, colors, and fonts.
-- **Flexbox**: For creating a flexible and responsive layout.
-- **JavaScript**: For implementing the core functionality of the age calculation and adding interactivity.
+- **HTML**
+- **CSS**
+- **Flexbox**
+- **JavaScript**
 
 ## Features
 
